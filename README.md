@@ -1,6 +1,6 @@
 # 📝 Task Manager - Redux + React + TypeScript
 
-This is a beginner-friendly task manager application built with **Vite**, **React**, **Redux**, and **TypeScript**, without using any middleware (like Thunk or Logger). It demonstrates how to use Redux for state management in a simple React application.
+This is a beginner-friendly task manager application built with **Vite**, **React**, **Redux**, and **TypeScript**. It demonstrates how to use Redux for state management in a simple React application.
 
 ---
 
