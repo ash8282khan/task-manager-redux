@@ -1,0 +1,49 @@
+/* index.css */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #f9fafb;
+  color: #111827;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+/* Utility classes */
+input {
+  outline: none;
+  border: 1px solid #d1d5db;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  padding: 8px 12px;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+.task-completed {
+  text-decoration: line-through;
+  color: #9ca3af;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 16px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
